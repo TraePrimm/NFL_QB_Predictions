@@ -8,6 +8,6 @@ Ways to get better acuracy: <br>
                             
                            
 The data files are in the QBs folder and consist of:<br>
-              1)  2004-2011 college stats: this is there carrer college stats that I used for the model<br>
-              2)  2004-2011 drafts: all the QBs drafted in that time frame and shows a little bit of how they did in the nfl up to <br> 2020<br>
-              3)  players to test: the players that I tested mostly being the 2020 first round selections
+              1)  <b>2004-2011 college stats</b>: this is there carrer college stats that I used for the model<br>
+              2)  <b>2004-2011 drafts</br>: all the QBs drafted in that time frame and shows a little bit of how they did in the nfl up to <br> 2020<br>
+              3)  <b>players to test</b>: the players that I tested mostly being the 2020 first round selections
